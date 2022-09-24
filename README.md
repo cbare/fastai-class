@@ -8,8 +8,8 @@ This is my notes and homework as a student of Jeremy Howard's [fast.ai][1] [cour
 
 - [✓] Lesson 1: [Getting started](https://www.youtube.com/watch?v=8SF_h3xF3cE)
 - [✓] Lesson 2: [Deployment](https://www.youtube.com/watch?v=F4tvM4Vb3A0)
-- [ ] Lesson 3: [Neural net foundations](https://www.youtube.com/watch?v=hBBOjCiFcuo)
-- [ ] Lesson 4: [Natural Language (NLP)]()
+- [✓] Lesson 3: [Neural net foundations](https://www.youtube.com/watch?v=hBBOjCiFcuo)
+- [ ] Lesson 4: [Natural Language (NLP)](https://www.youtube.com/watch?v=toUgBQv1BT8)
 - [ ] Lesson 5: [From-scratch model]()
 - [ ] Lesson 6: [Random forests]()
 - [ ] Lesson 7: [Collaborative filtering]()
