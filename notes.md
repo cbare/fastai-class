@@ -124,3 +124,17 @@ test-time augmentation
 [breiman]: https://www.semanticscholar.org/paper/Statistical-modeling%3A-The-two-cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372
 [expl-gb]: https://explained.ai/gradient-boosting/
 [l6]: https://course.fast.ai/Lessons/lesson6.html
+
+
+## Lesson 7:
+
+[Lesson 7][l7] summary: Kaggle rice paddy competition, ensembling, Multi-target models, Collaborative filtering.
+
+[Things that confused me about cross-entropy][said-ce] by Chris Said
+
+matrix factorization
+
+Multiplying by a one-hot encoded vector is equivalent to doing a lookup.
+
+[l7]: https://course.fast.ai/Lessons/lesson7.html
+[said-ce]: https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/

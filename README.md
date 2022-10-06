@@ -16,7 +16,7 @@ The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applicati
 - [✓] Lesson 4: [Natural Language (NLP)][1004]
 - [✓] Lesson 5: [From-scratch model][1005]
 - [✓] Lesson 6: [Random forests][1006]
-- [ ] Lesson 7: [Collaborative filtering][1007]
+- [✓] Lesson 7: [Collaborative filtering][1007]
 - [ ] Lesson 8: [Convolutions (CNNs)][1008]
 - [ ] Lesson 9: [Data ethics][1009]
 
