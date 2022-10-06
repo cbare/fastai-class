@@ -2,19 +2,23 @@
 
 This is my notes and homework as a student of Jeremy Howard's [fast.ai][1] [course][2], 2022 edition.
 
+## Book
+
+The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD] is free and fairly readable on [github][7].
+
 ## Lectures
 
 [YouTube playlist for Practical Deep Learning for Coders 2022][3]
 
-- [✓] Lesson 1: [Getting started](https://www.youtube.com/watch?v=8SF_h3xF3cE)
-- [✓] Lesson 2: [Deployment](https://www.youtube.com/watch?v=F4tvM4Vb3A0)
-- [✓] Lesson 3: [Neural net foundations](https://www.youtube.com/watch?v=hBBOjCiFcuo)
-- [ ] Lesson 4: [Natural Language (NLP)](https://www.youtube.com/watch?v=toUgBQv1BT8)
-- [ ] Lesson 5: [From-scratch model]()
-- [ ] Lesson 6: [Random forests]()
-- [ ] Lesson 7: [Collaborative filtering]()
-- [ ] Lesson 8: [Convolutions (CNNs)]()
-- [ ] Lesson 9: [Data ethics](https://youtu.be/krIVOb23EH8)
+- [✓] Lesson 1: [Getting started][1001]
+- [✓] Lesson 2: [Deployment][1002]
+- [✓] Lesson 3: [Neural net foundations][1003]
+- [✓] Lesson 4: [Natural Language (NLP)][1004]
+- [ ] Lesson 5: [From-scratch model][1005]
+- [ ] Lesson 6: [Random forests][1006]
+- [ ] Lesson 7: [Collaborative filtering][1007]
+- [ ] Lesson 8: [Convolutions (CNNs)][1008]
+- [ ] Lesson 9: [Data ethics][1009]
 
 
 ## Projects and homeworks
@@ -31,16 +35,19 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 
 ## Links
 
-Library for setting up a Ubuntu machine: [fastsetup][4]
-
-[fastai: A Layered API for Deep Learning][5] by Jeremy Howard, Sylvain Gugger
-
-[Tanishq Abraham's tutorial on Gradio + HuggingFace Spaces][6]
 
 
 [1]: https://www.fast.ai/
 [2]: https://course.fast.ai/
 [3]: https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
-[4]: https://github.com/fastai/fastsetup
-[5]: https://arxiv.org/abs/2002.04688
-[6]: https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial
+[7]: https://github.com/fastai/fastbook
+
+[1001]: https://www.youtube.com/watch?v=8SF_h3xF3cE
+[1002]: https://www.youtube.com/watch?v=F4tvM4Vb3A0
+[1003]: https://www.youtube.com/watch?v=hBBOjCiFcuo
+[1004]: https://www.youtube.com/watch?v=toUgBQv1BT8
+[1005]: https://www.youtube.com/watch?v=_rXzeWq4C6w
+[1006]: https://www.youtube.com/watch?v=AdhG64NF76E
+[1007]: https://www.youtube.com/watch?v=p4ZZq0736Po
+[1008]: 
+[1009]: https://youtu.be/krIVOb23EH8
