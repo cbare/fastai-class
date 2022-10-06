@@ -73,3 +73,54 @@ NLP workflow: tokenization -> numericalization -> modeling.
 [l4]: https://course.fast.ai/Lessons/lesson4.html
 [metrics]: https://www.fast.ai/posts/2019-09-24-metrics.html
 [bots]: https://medium.com/hackernoon/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
+
+
+## Lesson 5: From-scratch model
+
+[Lesson 5][l5] summary: Using the Titanic dataset, build a [linear model and neural net from scratch][fromScratch].
+
+Feature engineering:
+
+- missing data
+  - mode imputation
+  - introducing categorical variables to indicate missingness.
+- taking the log of variables with long-tailed distributions
+- creating one-hots to represent categories
+- processing names to discover families and more
+- normalization
+
+[fromScratch]: https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch
+[l5]: https://course.fast.ai/Lessons/lesson5.html
+
+
+## Lesson 6: From-scratch model
+
+[Lesson 6][l6] summary: Random forests, gradient boosting, Kaggle rice paddy competition.
+
+### Tree based methods
+
+- 1R (a single binary split decision tree)
+
+Information that random forest gives you
+- out-of-bag error
+- How confident are we in our predictions for a particular row of data?
+  - variance of predictions from trees in forest.
+- What were the most important factors for a prediction on a particular row?
+- Which columns are the strongest predictors? Feature importance.
+- Which columns are redundant with each other?
+- How do predictions vary as we vary feature values?
+  - Partial dependence plots
+
+Leo Breiman [Statistical Modeling: The Two Cultures][breiman]
+
+[How to explain gradient boosting][expl-gb], Terence Parr and Jeremy Howard
+
+### Kaggle rice disease recognition
+
+convnext
+
+test-time augmentation
+
+[breiman]: https://www.semanticscholar.org/paper/Statistical-modeling%3A-The-two-cultures-Breiman/e5df6bc6da5653ad98e754b08f63326c2e52b372
+[expl-gb]: https://explained.ai/gradient-boosting/
+[l6]: https://course.fast.ai/Lessons/lesson6.html
