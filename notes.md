@@ -126,7 +126,7 @@ test-time augmentation
 [l6]: https://course.fast.ai/Lessons/lesson6.html
 
 
-## Lesson 7:
+## Lesson 7: collaborative filtering
 
 [Lesson 7][l7] summary: Kaggle rice paddy competition, ensembling, Multi-target models, Collaborative filtering.
 
@@ -138,3 +138,17 @@ Multiplying by a one-hot encoded vector is equivalent to doing a lookup.
 
 [l7]: https://course.fast.ai/Lessons/lesson7.html
 [said-ce]: https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/
+
+## Lesson 8: Convolutions
+
+[Lesson 8][l8] summary: Convolutions, CNNs, max vs. average pooling, dropout.
+
+[CNNs from different viewpoints][cnnv] by Matthew Kleinsmith
+[Activation Functions in Neural Networks][actss] by Sagar Sharma
+[Dropout: A Simple Way to Prevent Neural Networks from Overfitting][srivastava]
+
+
+[l8]: https://course.fast.ai/Lessons/lesson8.html
+[cnnv]: https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
+[actss]: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
+[srivastava]: https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf

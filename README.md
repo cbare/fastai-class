@@ -1,6 +1,6 @@
 # FastAI Class 2022
 
-This is my notes and homework as a student of Jeremy Howard's [fast.ai][1] [course][2], 2022 edition.
+This is my notes and homework as a student of Jeremy Howard's [fast.ai][1] [course][2], 2022 edition. Course lessons in Jupyter [Notebooks][5].
 
 ## Book
 
@@ -17,7 +17,7 @@ The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applicati
 - [✓] Lesson 5: [From-scratch model][1005]
 - [✓] Lesson 6: [Random forests][1006]
 - [✓] Lesson 7: [Collaborative filtering][1007]
-- [ ] Lesson 8: [Convolutions (CNNs)][1008]
+- [✓] Lesson 8: [Convolutions (CNNs)][1008]
 - [ ] Lesson 9: [Data ethics][1009]
 
 
@@ -40,14 +40,16 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 [1]: https://www.fast.ai/
 [2]: https://course.fast.ai/
 [3]: https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+[4]: https://forums.fast.ai/
+[5]: https://github.com/fastai/course22
 [7]: https://github.com/fastai/fastbook
 
-[1001]: https://www.youtube.com/watch?v=8SF_h3xF3cE
-[1002]: https://www.youtube.com/watch?v=F4tvM4Vb3A0
-[1003]: https://www.youtube.com/watch?v=hBBOjCiFcuo
-[1004]: https://www.youtube.com/watch?v=toUgBQv1BT8
-[1005]: https://www.youtube.com/watch?v=_rXzeWq4C6w
-[1006]: https://www.youtube.com/watch?v=AdhG64NF76E
-[1007]: https://www.youtube.com/watch?v=p4ZZq0736Po
-[1008]: 
+[1001]: https://youtu.be/8SF_h3xF3cE
+[1002]: https://youtu.be/F4tvM4Vb3A0
+[1003]: https://youtu.be/hBBOjCiFcuo
+[1004]: https://youtu.be/toUgBQv1BT8
+[1005]: https://youtu.be/_rXzeWq4C6w
+[1006]: https://youtu.be/AdhG64NF76E
+[1007]: https://youtu.be/p4ZZq0736Po
+[1008]: https://youtu.be/htiNBPxcXgo
 [1009]: https://youtu.be/krIVOb23EH8
