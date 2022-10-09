@@ -4,11 +4,11 @@
 
 [Lesson 1][l1] summary: FastAI Library. Bird or not bird image classifier.
 
-Library for setting up a Ubuntu machine: [fastsetup][4]
+Library for setting up a Ubuntu machine: [fastsetup][l1-4]
 
-[fastai: A Layered API for Deep Learning][5] by Jeremy Howard, Sylvain Gugger
+[fastai: A Layered API for Deep Learning][l1-5] by Jeremy Howard, Sylvain Gugger
 
-[Tanishq Abraham's tutorial on Gradio + HuggingFace Spaces][6]
+[Tanishq Abraham's tutorial on Gradio + HuggingFace Spaces][l1-6]
 
 Assignment: [NZ bird classifier](./notebooks/fastai-homework-1.ipynb).
 
@@ -20,7 +20,7 @@ Assignment: [NZ bird classifier](./notebooks/fastai-homework-1.ipynb).
 
 ## Lesson 2: Deployment
 
-[Lesson 2][] summary: deployment to Hugging Face Space with Gradio.
+[Lesson 2][l2] summary: deployment to Hugging Face Space with Gradio.
 
 - [Gradio tutorial][gradio-tut] from @ilovescience
 - [HF Spaces][hfs]
@@ -32,6 +32,7 @@ Assignment: [NZ bird classifier](./notebooks/fastai-homework-1.ipynb).
 
 Assignment: [Deploy NZ bird classifier to Hugging Face](https://huggingface.co/spaces/christopherbare/nz-bird-classifier).
 
+[l2]: https://course.fast.ai/Lessons/lesson2.html
 [gradio-tut]: https://tmabraham.github.io/blog/gradio_hf_spaces_tutorial
 [hfs]: https://huggingface.co/spaces
 [WSL]: https://docs.microsoft.com/en-us/windows/wsl/install
@@ -144,7 +145,9 @@ Multiplying by a one-hot encoded vector is equivalent to doing a lookup.
 [Lesson 8][l8] summary: Convolutions, CNNs, max vs. average pooling, dropout.
 
 [CNNs from different viewpoints][cnnv] by Matthew Kleinsmith
+
 [Activation Functions in Neural Networks][actss] by Sagar Sharma
+
 [Dropout: A Simple Way to Prevent Neural Networks from Overfitting][srivastava]
 
 

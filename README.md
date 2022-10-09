@@ -4,7 +4,7 @@ This is my notes and homework as a student of Jeremy Howard's [fast.ai][1] [cour
 
 ## Book
 
-The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD] is free and fairly readable on [github][7].
+The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applications Without a PhD][8] is free and fairly readable on [github][7].
 
 ## Lectures
 
@@ -35,6 +35,7 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 
 ## Links
 
+- lesson [notes][9]
 
 
 [1]: https://www.fast.ai/
@@ -43,6 +44,8 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 [4]: https://forums.fast.ai/
 [5]: https://github.com/fastai/course22
 [7]: https://github.com/fastai/fastbook
+[8]: https://course.fast.ai/Resources/book.html
+[9]: ./notes.md
 
 [1001]: https://youtu.be/8SF_h3xF3cE
 [1002]: https://youtu.be/F4tvM4Vb3A0
