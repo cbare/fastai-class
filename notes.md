@@ -140,6 +140,7 @@ Multiplying by a one-hot encoded vector is equivalent to doing a lookup.
 [l7]: https://course.fast.ai/Lessons/lesson7.html
 [said-ce]: https://chris-said.io/2020/12/26/two-things-that-confused-me-about-cross-entropy/
 
+
 ## Lesson 8: Convolutions
 
 [Lesson 8][l8] summary: Convolutions, CNNs, max vs. average pooling, dropout.
@@ -155,3 +156,38 @@ Multiplying by a one-hot encoded vector is equivalent to doing a lookup.
 [cnnv]: https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
 [actss]: https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
 [srivastava]: https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf
+
+
+
+## Lesson 9: Ethics for Data Science
+
+What could go wrong?
+
+- Toxic feedback loops.
+- No way to identify and address mistakes.
+- Bias
+- Use of technology for harmful purposes.
+
+Questions to ask:
+
+- Should we be doing this?
+- What bias is in the data?
+- Can the code and data be audited?
+- What are error rates for different subgroups?
+- What is the accuracy of a rule-based alternative?
+- What is the process to handle appeals or mistakes?
+- How diverse is the team that built it?
+
+
+### Ethics resources
+
+- [A Framework for Understanding Unintended Consequences of Machine Learning][l9-1] by Harini Suresh and John V. Guttag
+- [Tutorial: 21 fairness definitions and their politics][l9-2] by Arvind Narayanan
+- [Ethics in Technology Practice][l9-3] from SCU Markkula Center for Applied Ethics
+- [Datasheets for Datasets][l9-4]
+
+
+[l9-1]: https://aps.arxiv.org/abs/1901.10002v2
+[l9-2]: https://www.youtube.com/watch?v=jIXIuYdnyyk
+[l9-3]: https://www.scu.edu/ethics-in-technology-practice/
+[l9-4]: https://arxiv.org/abs/1803.09010

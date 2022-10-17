@@ -18,7 +18,7 @@ The Fast AI book [Deep Learning for Coders with Fastai and Pytorch: AI Applicati
 - [✓] Lesson 6: [Random forests][1006]
 - [✓] Lesson 7: [Collaborative filtering][1007]
 - [✓] Lesson 8: [Convolutions (CNNs)][1008]
-- [ ] Lesson 9: [Data ethics][1009]
+- [✓] Lesson 9: [Data ethics][1009]
 
 
 ## Projects and homeworks
@@ -38,6 +38,12 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 - lesson [notes][9]
 
 
+## Part 2
+
+[From Deep Learning Foundations to Stable Diffusion][10] Practical Deep Learning for Coders part 2, 2022.
+
+
+
 [1]: https://www.fast.ai/
 [2]: https://course.fast.ai/
 [3]: https://www.youtube.com/watch?v=8SF_h3xF3cE&list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
@@ -46,6 +52,7 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 [7]: https://github.com/fastai/fastbook
 [8]: https://course.fast.ai/Resources/book.html
 [9]: ./notes.md
+[10]: https://www.fast.ai/posts/part2-2022.html
 
 [1001]: https://youtu.be/8SF_h3xF3cE
 [1002]: https://youtu.be/F4tvM4Vb3A0
