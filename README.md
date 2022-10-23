@@ -33,15 +33,18 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 [nzbk]: https://www.kaggle.com/code/christopherbare/fastai-homework-1
 [nzbhf]: https://huggingface.co/spaces/christopherbare/nz-bird-classifier
 
-## Links
+## Notes Part 1
 
-- lesson [notes][9]
+- part 1 lesson [notes][9]
 
 
-## Part 2
+## Notes Part 2
 
-[From Deep Learning Foundations to Stable Diffusion][10] Practical Deep Learning for Coders part 2, 2022.
+Part 2 lesson [notes][13]
 
+- [From Deep Learning Foundations to Stable Diffusion][10] Practical Deep Learning for Coders part 2, 2022.
+- [github repo fastai/course22p2][11]
+- [forums][12]
 
 
 [1]: https://www.fast.ai/
@@ -53,6 +56,9 @@ As an extension of the bird/no-bird classifier, I thought it would be fun to cla
 [8]: https://course.fast.ai/Resources/book.html
 [9]: ./notes.md
 [10]: https://www.fast.ai/posts/part2-2022.html
+[11]: https://github.com/fastai/course22p2
+[12]: https://forums.fast.ai/t/lesson-9-official-topic/100562
+[13]: ./notes-part-2.md
 
 [1001]: https://youtu.be/8SF_h3xF3cE
 [1002]: https://youtu.be/F4tvM4Vb3A0
