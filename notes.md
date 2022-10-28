@@ -62,6 +62,7 @@ Why does transfer learning work? When we fine-tune a pretrained model, we're mak
 NLP workflow: tokenization -> numericalization -> modeling.
 
 [The problem with metrics is a big problem for AI][metrics].
+[Creating a good validation set][val]
 
 ### Side notes
 
@@ -74,6 +75,7 @@ NLP workflow: tokenization -> numericalization -> modeling.
 [l4]: https://course.fast.ai/Lessons/lesson4.html
 [metrics]: https://www.fast.ai/posts/2019-09-24-metrics.html
 [bots]: https://medium.com/hackernoon/more-than-a-million-pro-repeal-net-neutrality-comments-were-likely-faked-e9f0e3ed36a6
+[val]: https://www.fast.ai/posts/2017-11-13-validation-sets.html
 
 
 ## Lesson 5: From-scratch model
